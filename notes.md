@@ -19,6 +19,11 @@
 - used typeof keyword to return the data type of a value
 - made kelvin weather forcast for website
 - learned conversion from kelvin to fahrenheit
--used Math.floor() to round decimals
--created human age to dog years calculator
+- used Math.floor() to round decimals
+- created human age to dog years calculator
 used interpolation to display values
+- Learned conditionals
+- worked with if...else and else if
+- used comparison operators 
+- logical and operators, also the logical or operator
+- finished with the bang operator, ternary operator and a switch statement.
