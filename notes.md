@@ -27,3 +27,5 @@ used interpolation to display values
 - used comparison operators 
 - logical and operators, also the logical or operator
 - finished with the bang operator, ternary operator and a switch statement.
+-finished frontend super review session 1
+-covered basic html and css including the box model
