@@ -29,3 +29,6 @@ used interpolation to display values
 - finished with the bang operator, ternary operator and a switch statement.
 -finished frontend super review session 1
 -covered basic html and css including the box model
+-started codewars everyday
+-implementing projects towards building portfolio
+-started building project for first freelance client
