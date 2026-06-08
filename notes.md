@@ -32,3 +32,5 @@ used interpolation to display values
 -started codewars everyday
 -implementing projects towards building portfolio
 -started building project for first freelance client
+-created and filled new client contract with legalities and pricing
+-did codewars challenges 
