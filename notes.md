@@ -34,3 +34,6 @@ used interpolation to display values
 -started building project for first freelance client
 -created and filled new client contract with legalities and pricing
 -did codewars challenges 
+-did some finishing touches on client project
+-anki and codewars done this morning
+-going through class 19 of 100devs covering arrays
