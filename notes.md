@@ -37,3 +37,4 @@ used interpolation to display values
 -did some finishing touches on client project
 -anki and codewars done this morning
 -going through class 19 of 100devs covering arrays
+-finished class 19 and set all to anki
