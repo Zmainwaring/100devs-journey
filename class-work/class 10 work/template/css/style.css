@@ -1,0 +1,107 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+
+}
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+.bbc-nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: #000;
+  padding: 0 1rem;
+  height: 48px;
+}
+
+.bbc-logo img {
+  width: 70px;
+  border-right: 1px solid white;
+}
+
+.sign-in {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.nav-links a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  padding: 0 12px;
+  height: 48px;
+  line-height: 48px;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+
+.nav-links a:hover {
+  background-color: #333;
+}
+
+.search-form {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  border: 1px solid #fff;
+}
+
+.search-form input {
+  background: #000;
+  border: none;
+  color: #fff;
+  padding: 4px 8px;
+  font-size: 14px;
+  outline: none;
+  width: 140px;
+}
+
+.search-form button {
+  background: #fff;
+  border-left: 1px solid white;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
